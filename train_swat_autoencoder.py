@@ -330,6 +330,5 @@ def main() -> None:
     for key, value in metrics.items():
         print(f"{key}: {value}")
 
-
 if __name__ == "__main__":
     main()
